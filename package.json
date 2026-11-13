@@ -1,0 +1,22 @@
+{
+  "name": "playwright-mayan",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AbsorbingYendis/Playwright-Mayan.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AbsorbingYendis/Playwright-Mayan/issues"
+  },
+  "homepage": "https://github.com/AbsorbingYendis/Playwright-Mayan#readme",
+  "devDependencies": {
+    "@playwright/test": "^1.65.0",
+    "@types/node": "^26.6.6"
+  }
+}
